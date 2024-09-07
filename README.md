@@ -11,5 +11,5 @@ The data for gun violence is alarming in the US. John Hopkins researchers argue 
 
 # TOOLS
 * Python, Jupyter Notebook, Numby, Pandas,Seaborn,Matplotib, Scipy,sklearn,statsmodels.api,sklearn.cluster,pylab.
-* Tableau
+* Tableau Link https://public.tableau.com/shared/SFHJNXXYJ?:display_count=n&:origin=viz_share_link
 * Excel 																																							
