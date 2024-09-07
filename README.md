@@ -6,7 +6,7 @@ The data for gun violence is alarming in the US. John Hopkins researchers argue 
 3. Who are the victims of gun violence?
 4. Is there any gender based difference among the gun violence victims? 	
    
-# DATA SETS
+# DATA SET
 "Gun Violence Data”, Accessed from https://www.kaggle.com/datasets/jameslko/gun-violence-data via Kaggle on <August 4, 2024>."
 
 # TOOLS
